@@ -1,0 +1,16 @@
+*{
+    margin: 0 !important;
+    padding: 0 !important;
+    font-family: 'Baloo 2', cursive;
+    box-sizing: border-box;
+}
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background-color: #091921;
+}
+
+
+
